@@ -5,7 +5,7 @@ permalink: /familia
 ---
 |![Colorear][imagen1] | ![Colorear][imagen2] | ![Colorear][imagen3] |
 |:---:|:---:|:---:|
-| ![Colorear][imagen4] | ![Colorear][imagen4] | ![Colorear][imagen5] |
+| ![Colorear][imagen4] | ![Colorear][imagen5] | ![Colorear][imagen6] |
 
 [imagen1]: {{ site.relbaseurl }}/public/images/image10.png
 [imagen2]: {{ site.relbaseurl }}/public/images/image11.png
