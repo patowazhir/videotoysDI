@@ -5,7 +5,7 @@ regenerate: true
 title: Video-Toys
 description: 'Sitio de juegos'
 tagline: "Encuentra las mejores ofertas en juegos"
-relbaseurl: "" # /videotoysDI
+relbaseurl: /videotoysDI
 timezone: America/Mexico_City
 encoding: utf-8
 permalink: pretty
