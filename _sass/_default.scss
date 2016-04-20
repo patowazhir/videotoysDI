@@ -48,3 +48,15 @@
 .navbar {
   z-index: 100;
 }
+.carousel img {
+  width: auto;
+  height: 600px;
+  max-height: 600px;
+}
+
+.carousel {
+  float: none;
+  width: auto;
+  overflow: hidden;
+  max-height: 600px;
+}
