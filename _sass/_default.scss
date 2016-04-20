@@ -7,12 +7,36 @@
 }
 
 .page img {
+  height: 250px;
+  width: 250px;
+  align: center;
   max-width: 250px;
   max-height: 250px;
+  margin-top: 2em;
+  cursor: pointer;
+  cursor: hand;
 }
 
-.page table {
-  margin-left: auto; 
+.page div {
+  margin-left: auto;
   margin-right: auto;
+  text-align: center;
   align: center;
+  font-weight: bold;
+  float: left;
+  position:relative;
+
+}
+.page h1 {
+  margin-left: 3em;
+}
+
+@media screen and (max-width: 480px) {
+  .page div {
+    width: 100%;
+  }
+}
+
+.navbar {
+  z-index: 100; 
 }
