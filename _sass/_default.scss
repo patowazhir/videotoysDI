@@ -28,7 +28,15 @@
 
 }
 .page h1 {
+  margin-left: 2em;
+}
+
+.page h2 {
   margin-left: 3em;
+}
+
+.page p {
+  margin-left: 8em;
 }
 
 @media screen and (max-width: 480px) {
