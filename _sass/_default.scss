@@ -60,3 +60,14 @@
   overflow: hidden;
   max-height: 600px;
 }
+
+.carousel  { 
+  text-align: center; 
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
